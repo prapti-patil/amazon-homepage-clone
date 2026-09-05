@@ -8,6 +8,10 @@ This project recreates the visual layout of an Amazon-style shopping
 homepage. It includes a navigation bar, search section, hero banner,
 product categories, and footer.
 
+## 🖥️ Application Preview
+
+![Amazon Homepage Clone](amazon-preview.jpeg)
+
 ## ✨ Features
 
 - Amazon-style navigation bar
