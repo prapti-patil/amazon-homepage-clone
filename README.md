@@ -48,22 +48,28 @@ amazon-homepage-clone/
     ├── box5_image.jpg
 
 ▶️ How to Run
+
 Clone or download this repository.
 Open the project folder.
 Open index.html in a web browser.
+
 🎯 Learning Outcomes
+
 Understanding HTML page structure
 Creating layouts using CSS Flexbox
 Working with background images
 Creating navigation and footer sections
 Using external icon libraries
 Organizing website assets
+
 🔮 Future Improvements
+
 Add JavaScript functionality
 Make the search bar functional
 Add product pages
 Add shopping cart functionality
 Improve mobile responsiveness
+
 👩‍💻 Author
 
 Prapti Patil
